@@ -1,0 +1,92 @@
+body {
+    background-image: url("../images/concrete_seamless.png");
+    margin: 0px;
+    color: #777777;
+}
+
+a {text-decoration-line: none;
+   text-decoration: none;}
+
+
+header { height: 100px;
+    background-color:#ffffff;
+        position: relative;
+        border-color: #cccccc;
+    border-width:2px;
+border-style: hidden hidden solid hidden;
+    }
+
+        .name{ margin: 0px;
+       width: 300px;
+       height: 90px;
+       
+       background-color:#4aaaa5;
+       position:absolute;
+       left: 2em;
+       top: 10px;}
+
+       h1 {font-family: Georgia, Times New Roman, Times, 'serif';
+           font-size:40px;
+           
+          }
+          .hname{
+              color: #ffffff;
+              padding: 30px;
+              text-align: center;
+          }
+
+          
+
+       nav { float: right;
+             position: absolute;
+             right: 150px;
+             top: 40px;
+            
+             font-size: 20px;
+       }
+
+    .content {clear: both;
+        float: left;
+        position: relative;
+        left: 75px;
+        margin:25px ;
+        padding:25px;
+        width: 600px;
+        background-color: #ffffff;
+    overflow: auto}
+
+    
+    
+        .will {
+            float: left;       
+            margin-right: 25px;
+            margin-bottom: 10px;
+            width:50%;
+        }
+.me{ padding-bottom: 25px;
+    border-color: #cccccc;
+    border-width:2px;
+border-style: hidden hidden solid hidden;}
+       .ramble {margin-top: 25px;} 
+ 
+
+        .external {
+        
+            float: right;
+            position: relative;
+            right: 100px;
+            margin:25px;
+            padding:25px;
+            width: 220px;
+            text-align: center;
+            background-color: #ffffff;}
+
+            h2 {padding-bottom: 25px;
+                border-color: #cccccc;
+                border-width:2px;
+            border-style: hidden hidden solid hidden;}
+
+            .icon {margin-top: 25px;
+                width: 25%}
+
+footer{clear: both}
